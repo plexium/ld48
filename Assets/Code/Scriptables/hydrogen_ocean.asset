@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21e4d857dba2371418a47b13ac604a30, type: 3}
+  m_Name: hydrogen_ocean
+  m_EditorClassIdentifier: 
+  layerName: Liquid hydrogen region
+  depth: -132
+  temp: 152
+  pressure: 10
+  hydrogenDensity: 100
+  peakSpeed: 1
+  bgColor: {r: 0, g: 0.20371701, b: 0.23584908, a: 0}
+  next: {fileID: 11400000, guid: 9a7aab34b823dbe4d9c4a8bbbb303b95, type: 2}
+  previous: {fileID: 11400000, guid: 91dc3fdf5d2b2c546b236a84e26fa637, type: 2}
